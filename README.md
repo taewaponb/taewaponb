@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @petchz
-- 👀 Interested in Programming, Technology and gaming! 
+- 👀 Interested in Programming, Technology and Gaming! 
 - 🌱 Currently learning ReactJS and Unity
 - 💞️ Looking forward to collaborate on a great project that can improve both my skill and knowledge
 - 📫 How to reach me? >> petchz2012@hotmail.com <<
