@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taewapon Banhanvootikrai (Petch, Adams)
-- 👀 Interested in Programming, Technology and Gaming! 
-- 🌱 Currently learning ReactJS and Unity
+- 👀 Passionate in Programming, Technology, Cryptocurrency and Gaming! 
+- 🌱 Currently learning and improving on MERN, python and Unity
 - 💞️ Looking forward to collaborate on a great project that can improve both my skill and knowledge
 - 📫 How to reach me? >> taewapon.b@kkumail.com, petchz2012@hotmail.com <<
 
