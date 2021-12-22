@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Taewapon Banhanvootikrai (Petch, Adam)
+- 👋 Hi, I’m Taewapon Banhanvootikrai (Petch, Adams)
 - 👀 Interested in Programming, Technology and Gaming! 
 - 🌱 Currently learning ReactJS and Unity
 - 💞️ Looking forward to collaborate on a great project that can improve both my skill and knowledge
