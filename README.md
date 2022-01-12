@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I’m Taewapon Banhanvootikrai (Petch 💎) </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,  I’m Taewapon Banhanvootikrai (Petch 💎) </h1>
 <h3 align="center">Software Engineer | Game Developer | Nerd</h3>
 
 <p align="center"> 
@@ -30,19 +30,18 @@
   That is the Purpose of life. </i></b>❞ -->
 </p>
 
----
-
+<!-- 
 <h3 align="center">Contact Me</h3>
 
 <p align="center">
   <a href="mailto:taewapon.b@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=mail.ru&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/taewaponb/">
+  <a href="https://www.linkedin.com/in/taewaponb">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://www.taewapon.site">
-    <img alt="Website" src="https://img.shields.io/badge/-WEBSITE-4158d0?style=for-the-badge&logoColor=white" />
+  <a href="https://taewapon.site">
+    <img alt="Website" src="https://img.shields.io/badge/-WEBSITE-4158d0?style=for-the-badge&logo=World&logoColor=white" />
   </a>
   <a href="https://taewaponb.medium.com/">
     <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-000000?style=for-the-badge&logo=Medium&logoColor=white" />
@@ -50,7 +49,7 @@
   <a href="https://github.com/taewaponb">
    <img alt="Github" src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -64,3 +63,19 @@ const fevquote = () => {
   ];
 };
 ```
+
+<img src ="https://drive.google.com/uc?export=view&id=1IV6COf8x3Gzpg2iPqMyqyzkc__r3tYAJ" align = "left" width = 50%>
+<div>
+<h2  > Connect with me</h2>
+
+[<img alt="Email" src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=mail.ru&logoColor=white" />](mailto:taewapon.b@gmail.com)
+<br>  
+[<img alt="Linkedin" src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/taewaponb)
+<br>  
+[<img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-000000?style=for-the-badge&logo=Medium&logoColor=white" />](https://taewaponb.medium.com)
+<br>  
+[<img alt="Github" src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/taewaponb)
+<br>  
+[<img alt="Website" src="https://img.shields.io/badge/-WEBSITE-ffffff?style=for-the-badge&logo=World&logoColor=white" />](https://taewapon.site)
+<br>  
+</div>
