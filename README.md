@@ -24,13 +24,23 @@
 - 💞️ Looking forward to collaborate on a great project that can improve both my skill and knowledge <br/>
 - 🌱 Currently learning and improving on MERN, Unity and many more technoloy stacks! <br/>
 - 👀 Passionate in Programming, Technology, Cryptocurrency and Gaming! <br/>
-<!--   ❝<b><i align="center"> To see the world, things dangerous to come to, <br/>
-  to see behind walls, to draw closer, <br/>
-  to find each other and to feel. <br/>
-  That is the Purpose of life. </i></b>❞ -->
 </p>
 
-<!-- 
+---
+
+```javascript
+const fevquote = () => {
+  return [
+    "To see the world, things dangerous to come to, ",
+    "to see behind walls, to draw closer, ",
+    "to find each other and to feel. ",
+    "That is the Purpose of life.",
+  ];
+};
+```
+
+---
+
 <h3 align="center">Contact Me</h3>
 
 <p align="center">
@@ -49,25 +59,12 @@
   <a href="https://github.com/taewaponb">
    <img alt="Github" src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-</p> -->
+</p>
 
----
-
-```javascript
-const fevquote = () => {
-  return [
-    "To see the world, things dangerous to come to, ",
-    "to see behind walls, to draw closer, ",
-    "to find each other and to feel. ",
-    "That is the Purpose of life.",
-  ];
-};
-```
-
-<img src ="https://drive.google.com/uc?export=view&id=1IV6COf8x3Gzpg2iPqMyqyzkc__r3tYAJ" align = "left" width = 50%>
+<!-- <img src ="https://upload.wikimedia.org/wikipedia/commons/d/d5/Contacts_%28iOS%29.png" align = "left" width = 40%>
 <div>
-<h2  > Connect with me</h2>
-
+<h2 align="center"> Connect with me</h2>
+  
 [<img alt="Email" src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=mail.ru&logoColor=white" />](mailto:taewapon.b@gmail.com)
 <br>  
 [<img alt="Linkedin" src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/taewaponb)
@@ -78,4 +75,4 @@ const fevquote = () => {
 <br>  
 [<img alt="Website" src="https://img.shields.io/badge/-WEBSITE-ffffff?style=for-the-badge&logo=World&logoColor=white" />](https://taewapon.site)
 <br>  
-</div>
+</div> -->
