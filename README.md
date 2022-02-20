@@ -20,6 +20,10 @@
 </p>
 
 <p align="center">
+  <img alt="Codewars" src="https://www.codewars.com/users/P3TCHZ/badges/large" />
+</p>
+
+<p align="center">
 - 🙋🏻‍♂️ I am a simple nerd currently working as a Full Stack Dev base in Bangkok, Thailand <br/>
 - 💞️ Looking forward to collaborate on a great project that can improve both my skill and knowledge <br/>
 - 🌱 Currently learning and improving on MERN, Unity and many more technoloy stacks! <br/>
