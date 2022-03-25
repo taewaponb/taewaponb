@@ -30,8 +30,6 @@
 - 👀 Passionate in Programming, Technology, Cryptocurrency and Gaming! <br/>
 </p>
 
----
-
 ```javascript
 const fevquote = () => {
   return [
@@ -42,8 +40,6 @@ const fevquote = () => {
   ];
 };
 ```
-
----
 
 <h3 align="center">Contact Me</h3>
 
