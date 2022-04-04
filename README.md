@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,  I’m Taewapon (Petch) Banhanvootikrai 💎 </h1>
-<h3 align="center">Software Engineer | Game Developer | Nerd</h3>
+<h3 align="center">Softwarista</h3>
 
 <p align="center"> 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
