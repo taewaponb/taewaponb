@@ -50,9 +50,9 @@ const fevquote = () => {
   <a href="https://www.linkedin.com/in/taewaponb">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://taewapon.site">
+<!--   <a href="https://taewapon.site">
     <img alt="Website" src="https://img.shields.io/badge/-WEBSITE-4158d0?style=for-the-badge&logo=World&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://taewaponb.medium.com/">
     <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-000000?style=for-the-badge&logo=Medium&logoColor=white" />
   </a>
