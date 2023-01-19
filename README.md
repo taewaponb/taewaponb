@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-- 🙋🏻‍♂️ I am an ordinary developer currently working as a Software Engineer base in Bangkok, Thailand <br/>
+- 🙋🏻‍♂️ I am an ordinary developer currently working as a Software Engineer in Bangkok, Thailand <br/>
 - 💞️ Looking forward to collaborate on a great project that can improve both my skill and knowledge <br/>
 - 🌱 Currently learning and improving on MERN, Unity and many more technoloy stacks! <br/>
 - 👀 Passionate in Programming, Technology and Gaming! <br/>
