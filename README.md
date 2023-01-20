@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,  I’m Taewapon (Petch) Banhanvootikrai 💎 </h1>
-<h3 align="center">Softwarista</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,  I’m Taewapon (Petch) Banhanvootikrai</h1>
+<h3 align="center"> 💎 </h3>
 
 <p align="center">
   <img alt="Codewars" src="https://www.codewars.com/users/P3TCHZ/badges/large" />
