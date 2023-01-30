@@ -14,11 +14,11 @@
 </p>
 
 ```javascript
-const fevquote = () => 
-    "To see the world, things dangerous to come to, 
-    to see behind walls, to draw closer, 
-    to find each other and to feel. 
-    That is the Purpose of life.";
+const fevquote = 
+  "To see the world, things dangerous to come to, 
+  to see behind walls, to draw closer, 
+  to find each other and to feel. 
+  That is the Purpose of life."
 ```
 
 <h3 align="center">Contact Me</h3>
