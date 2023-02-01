@@ -1,16 +1,16 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,  I’m Taewapon (Petch) Banhanvootikrai</h1>
+<h1 align="center">Hi,  I’m Taewapon (Petch) Banhanvootikrai</h1>
 <h3 align="center"> 💎 </h3>
 
 <p align="center">
-  <img alt="Codewars" src="https://www.codewars.com/users/P3TCHZ/badges/large" />
+  <img alt="Codewars" src="https://www.codewars.com/users/taewaponb/badges/large" />
 </p>
 
 <p align="center">
 - 🙋🏻‍♂️ I am an ordinary developer currently working as a Software Engineer in Bangkok, Thailand <br/>
 - 💞️ Looking forward to collaborate on a great project that can improve both my skill and knowledge <br/>
 - 🌱 Currently learning and improving on MERN, Unity and many more technoloy stacks! <br/>
-- 👀 Passionate in Programming, Technology and Gaming! <br/>
+- 👀 Passionate in Programming, Technology and Gaming <br/>
 </p>
 
 ```javascript
