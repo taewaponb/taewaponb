@@ -1,16 +1,14 @@
-
-<h1 align="center">Hi,  I’m Taewapon (Petch) Banhanvootikrai</h1>
 <h3 align="center"> 💎 </h3>
 
 <p align="center">
-  <img alt="Codewars" src="https://www.codewars.com/users/taewaponb/badges/large" />
+- 🙋🏻‍♂️ I am an ordinary developer currently working as a Software Engineer in Bangkok, Thailand <br/>
+- 👀 Looking forward to collaborate on a great project that can improve both my skill and knowledge <br/>
+- 🌱 Currently learning and improving on MERN, Unity and many more technoloy stacks <br/>
+- ❤️‍🔥 Passionate in Programming, Technology and Gaming <br/>
 </p>
 
 <p align="center">
-- 🙋🏻‍♂️ I am an ordinary developer currently working as a Software Engineer in Bangkok, Thailand <br/>
-- 💞️ Looking forward to collaborate on a great project that can improve both my skill and knowledge <br/>
-- 🌱 Currently learning and improving on MERN, Unity and many more technoloy stacks! <br/>
-- 👀 Passionate in Programming, Technology and Gaming <br/>
+  <img alt="Codewars" src="https://www.codewars.com/users/taewaponb/badges/large" />
 </p>
 
 ```javascript
@@ -18,7 +16,7 @@ const fevquote =
   "To see the world, things dangerous to come to, 
   to see behind walls, to draw closer, 
   to find each other and to feel. 
-  That is the Purpose of life."
+  That is the purpose of life."
 ```
 
 <h3 align="center">Contact Me</h3>
