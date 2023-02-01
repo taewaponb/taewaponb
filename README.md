@@ -7,18 +7,6 @@
 - ❤️‍🔥 Passionate in Programming, Technology and Gaming <br/>
 </p>
 
-<p align="center">
-  <img alt="Codewars" src="https://www.codewars.com/users/taewaponb/badges/large" />
-</p>
-
-```javascript
-const fevquote = 
-  "To see the world, things dangerous to come to, 
-  to see behind walls, to draw closer, 
-  to find each other and to feel. 
-  That is the purpose of life."
-```
-
 <h3 align="center">Contact Me</h3>
 
 <p align="center">
@@ -30,8 +18,5 @@ const fevquote =
   </a>
   <a href="https://taewaponb.medium.com/">
     <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-000000?style=for-the-badge&logo=Medium&logoColor=white" />
-  </a>
-  <a href="https://github.com/taewaponb">
-   <img alt="Github" src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
 </p>
